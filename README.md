@@ -7,3 +7,5 @@ Here is a Movie Project with React, Redux , SASS , RestAPI (tmdb) that i made (t
 checkout the demo of the project here : 
 <br>
 https://ni-movie.vercel.app/
+<br>
+(OPEN THE LINK WITH VPN IF YOU'RE IN IRAN!)
