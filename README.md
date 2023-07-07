@@ -6,4 +6,4 @@ Here is a Movie Project with React, Redux , SASS , RestAPI (tmdb) that i made (t
 <br>
 checkout the demo of the project here : 
 <br>
-[ni-movie.vercel.app](https://ni-movie.vercel.app/)https://ni-movie.vercel.app/
+https://ni-movie.vercel.app/
